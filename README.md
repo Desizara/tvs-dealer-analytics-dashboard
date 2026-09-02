@@ -61,4 +61,4 @@ This dashboard helps TVS management track:
 - 250,000 total orders across 20+ dealerships
 - 70% orders delivered, 30% in progress
 - Average delivery time and SLA compliance tracked per dealer
-- Balanced
+- Balanced gender split (49.9% Female, 50.1% Male) among customers
