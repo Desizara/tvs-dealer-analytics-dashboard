@@ -33,29 +33,29 @@ This dashboard helps TVS management track:
 ## 📸 Screenshots
 
 
-![Dealer Performance](Screenshot%20(89)
+![Dealer Performance](<Screenshot (89)
 
-.png)
-
-
-![Order Fulfillment Tracker](Screenshot%20(90)
-
-.png)
+.png>)
 
 
-![Model-Wise Sales](Screenshot%20(91)
+![Order Fulfillment Tracker](<Screenshot (90)
 
-.png)
-
-
-![Customer Insights](Screenshot%20(92)
-
-.png)
+.png>)
 
 
-![Monthly Trend & SLA](Screenshot%20(93)
+![Model-Wise Sales](<Screenshot (91)
 
-.png)
+.png>)
+
+
+![Customer Insights](<Screenshot (92)
+
+.png>)
+
+
+![Monthly Trend & SLA](<Screenshot (93)
+
+.png>)
 
 ## 📈 Key Insights
 - 250,000 total orders across 20+ dealerships
